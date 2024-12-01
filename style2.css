@@ -1,0 +1,465 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.home-kfc-image {
+    background-image: url("https://res.cloudinary.com/dneatb8ci/image/upload/v1666429406/kfc_image2_zpolmn.jpg");
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+
+}
+
+.home-kfc-bottom-background {
+    background-color: #cf293f;
+    width: 100vw;
+    height: 30vh;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+}
+
+.home-kfc-heading-1 {
+    color: #ffffff;
+    font-family: "Bree Serif";
+
+}
+
+.home-kfc-paragraph1 {
+    color: White;
+    font-family: impact;
+    font-size: 20px;
+    font-weight: 500;
+
+}
+
+.home-button {
+    border-radius: 20px;
+    color: red;
+    font-weight: bold;
+}
+
+.chicken-buckets-image {
+    height: 140px;
+    width: 160px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+.chicken-buckets-bg {
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    background-color: #e9e5e1;
+    width: 160px;
+    margin: 5px;
+}
+
+.chicken-buckets-heading1 {
+    color: black;
+    font-family: "Roboto";
+    font-weight: bold;
+    padding: 10px;
+    font-size: 15px;
+}
+
+.browse-categ-heading {
+    color: black;
+    font-family: Arial;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.chicken-buckets-margin {
+    margin: 20px;
+}
+
+.width-browse-cate {
+    width: 100vw;
+}
+
+.kfc-symbhol-hightandwidth-image {
+    height: 110px;
+    width: 120px;
+    border-radius: 15px;
+}
+
+.view-more-deals-heading {
+    color: red;
+    font-family: "Bree Serif";
+    font-size: 20px;
+    padding: 20px;
+}
+
+.offers-and-deals-heading {
+    color: #ffffff;
+    font-family: impact;
+    font-size: 25px;
+    padding: 10px;
+    text-decoration: underline;
+}
+
+.bg-offers-and-deals {
+    background-color: black;
+    height: 80vh;
+
+}
+
+.height-of-images-in-carousel {
+    height: 300px;
+    border-radius: 15px;
+}
+
+.chicken-buckets-heading-page3 {
+    color: black;
+    font-family: "Caveat";
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.chicken-buckets-section-1-heading {
+    color: black;
+    font-family: "Bree Serif";
+    font-size: 25px;
+}
+
+.chicken-buckets-section-1-paragraph {
+    color: #655052;
+    font-family: "Bree Serif";
+    font-size: 15px;
+}
+
+.chicken-buckets-section-1-price {
+    color: Red;
+    font-family: "Bree Serif";
+    font-size: 20px;
+}
+
+.button-margin-chicken-buckets-1 {
+    margin: 10px;
+}
+
+.chicken-buckets-image-section-1 {
+    height: 120px;
+    width: 140px;
+    border-radius: 10px;
+}
+
+.padding-chicken-buckets-container {
+    padding: 15px;
+}
+
+.order-list-section {
+    list-style-type: lower-roman;
+}
+
+.chicken-buckets-heading-page3 {
+    color: black;
+    font-family: "Caveat";
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.chicken-buckets-heading-page3 {
+    color: black;
+    font-family: "Caveat";
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.chicken-buckets-section-1-heading {
+    color: black;
+    font-family: "Bree Serif";
+    font-size: 25px;
+}
+
+.chicken-buckets-section-1-paragraph {
+    color: #655052;
+    font-family: "Bree Serif";
+    font-size: 15px;
+}
+
+.chicken-buckets-section-1-price {
+    color: Red;
+    font-family: "Bree Serif";
+    font-size: 20px;
+}
+
+.button-margin-chicken-buckets-1 {
+    margin: 10px;
+}
+
+.chicken-buckets-image-section-1 {
+    height: 120px;
+    width: 140px;
+    border-radius: 10px;
+}
+
+.padding-chicken-buckets-container {
+    padding: 15px;
+}
+
+.height-width {
+    height: 25px;
+    width: 50px;
+
+}
+
+.carousel-margin {
+    margin: 10px;
+}
+
+.hei-wid-carousel {
+    height: 300px;
+    border-radius: 15px;
+}
+
+.chicken-buckets-heading-page3 {
+    color: black;
+    font-family: "Caveat";
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.chicken-buckets-heading-page3 {
+    color: black;
+    font-family: "Caveat";
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.chicken-buckets-section-1-heading {
+    color: black;
+    font-family: "Bree Serif";
+    font-size: 25px;
+}
+
+.chicken-buckets-section-1-paragraph {
+    color: #655052;
+    font-family: "Bree Serif";
+    font-size: 15px;
+}
+
+.chicken-buckets-section-1-price {
+    color: Red;
+    font-family: "Bree Serif";
+    font-size: 20px;
+}
+
+.button-margin-chicken-buckets-1 {
+    margin: 10px;
+}
+
+.chicken-buckets-image-section-1 {
+    height: 120px;
+    width: 140px;
+    border-radius: 10px;
+}
+
+.padding-chicken-buckets-container {
+    padding: 15px;
+}
+
+.height-width1 {
+    height: 30px;
+    width: 65px;
+
+}
+
+.chicken-buckets-heading-page3 {
+    color: black;
+    font-family: "Caveat";
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.chicken-buckets-heading-page3 {
+    color: black;
+    font-family: "Caveat";
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.chicken-buckets-section-1-heading {
+    color: black;
+    font-family: "Bree Serif";
+    font-size: 25px;
+}
+
+.chicken-buckets-section-1-paragraph {
+    color: #655052;
+    font-family: "Bree Serif";
+    font-size: 15px;
+}
+
+.chicken-buckets-section-1-price {
+    color: Red;
+    font-family: "Bree Serif";
+    font-size: 20px;
+}
+
+.button-margin-chicken-buckets-1 {
+    margin: 10px;
+}
+
+.chicken-buckets-image-section-1 {
+    height: 120px;
+    width: 140px;
+    border-radius: 10px;
+}
+
+.padding-chicken-buckets-container {
+    padding: 15px;
+}
+
+.height-width3 {
+    height: 35px;
+    width: 70px;
+}
+
+.chicken-buckets-heading-page3 {
+    color: black;
+    font-family: "Caveat";
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.chicken-buckets-heading-page3 {
+    color: black;
+    font-family: "Caveat";
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.chicken-buckets-section-1-heading {
+    color: black;
+    font-family: "Bree Serif";
+    font-size: 25px;
+}
+
+.chicken-buckets-section-1-paragraph {
+    color: #655052;
+    font-family: "Bree Serif";
+    font-size: 15px;
+}
+
+.chicken-buckets-section-1-price {
+    color: Red;
+    font-family: "Bree Serif";
+    font-size: 20px;
+}
+
+.button-margin-chicken-buckets-1 {
+    margin: 10px;
+}
+
+.chicken-buckets-image-section-1 {
+    height: 120px;
+    width: 140px;
+    border-radius: 10px;
+}
+
+.padding-chicken-buckets-container {
+    padding: 15px;
+}
+
+.height-width3 {
+    height: 35px;
+    width: 70px;
+}
+
+.chicken-buckets-heading-page3 {
+    color: black;
+    font-family: "Caveat";
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.chicken-buckets-heading-page3 {
+    color: black;
+    font-family: "Caveat";
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.chicken-buckets-section-1-heading {
+    color: black;
+    font-family: "Bree Serif";
+    font-size: 25px;
+}
+
+.chicken-buckets-section-1-paragraph {
+    color: #655052;
+    font-family: "Bree Serif";
+    font-size: 15px;
+}
+
+.chicken-buckets-section-1-price {
+    color: Red;
+    font-family: "Bree Serif";
+    font-size: 20px;
+}
+
+.button-margin-chicken-buckets-1 {
+    margin: 10px;
+}
+
+.chicken-buckets-image-section-1 {
+    height: 120px;
+    width: 140px;
+    border-radius: 10px;
+}
+
+.padding-chicken-buckets-container {
+    padding: 15px;
+}
+
+.height-width3 {
+    height: 35px;
+    width: 70px;
+}
+
+.Thanks-order {
+    font-weight: bold;
+    font-size: 30px;
+    font-family: "Algerian";
+    color: white;
+
+
+}
+
+.para-order {
+    color: White;
+    font-size: 20px;
+    font-family: "Algerian";
+}
+
+.bg-container-kfc {
+    background-image: url("https://th.bing.com/th/id/OIP.VCDXAmRbZXegI6SuHCBpNgHaE8?pid=ImgDet&rs=1");
+    height: 100vh;
+    background-size: cover;
+    height: 390px;
+    width: 100vw;
+    border-radius: 20px;
+}
+
+.into-symbhol {
+    color: white;
+    font-size: 35px;
+}
+
+.bg-container1 {
+
+    height: 300px;
+    background-size: cover;
+    height: 100vh;
+
+
+}
+
+.image-edit {
+    height: 150px;
+    width: 150px;
+}
+
+.cart-heading {
+    color: black;
+    font-family: impact;
+    font-size: 25px;
+}
